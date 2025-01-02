@@ -21,7 +21,7 @@ NumberStartingPoints=8
 
 [General]
 DMislAltitude=1196
-DMislTurnRate=0.1
+DMislTurnRate=.1
 
 [STANG]
 Cost=350
