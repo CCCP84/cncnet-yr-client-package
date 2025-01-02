@@ -600,6 +600,7 @@ Powered=1
 Strength=1020
 BaseNormal=1
 Capturable=1
+ClickRepairable=1
 CanBeOccupied=0
 MaxNumberOccupants=0
 ThreatPosed=0
